@@ -1,0 +1,9 @@
+huggingface-hub
+keras
+tensorflow
+scikit-learn
+streamlit
+transformers
+torch
+nltk
+
